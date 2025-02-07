@@ -6,3 +6,6 @@
 [Sitemap](https://www.gloomaps.com/vamEhg6pWG)
 [Wireframe](https://drive.google.com/file/d/1Pa8f3oQfvveTQb4D0qWx_wXstNDgmZl4/view?usp=sharing)
 [Mockups](https://www.figma.com/design/bnbSCaq9X9dFQ9U3ZRRezH/PORTFOLIYO?node-id=20-13&t=nmrHu2HIIAjwTPaI-1)
+
+## Assignment 02
+https://github.com/sahanft/portfolio_udakarafdo/blob/main/README.md
